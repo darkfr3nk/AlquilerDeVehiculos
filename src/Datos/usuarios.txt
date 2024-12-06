@@ -1,0 +1,4 @@
+admin;root;Administrador;true
+frank;kimo<3;Frank Cano;false
+nicole;yesmylord;Nicole Bernal;true
+manuel;soychampi;Manuel Castro;false

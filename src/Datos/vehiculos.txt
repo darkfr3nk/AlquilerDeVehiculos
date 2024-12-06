@@ -1,0 +1,11 @@
+0;???;???;???;???;0;0;0;0;???;0;false;0.0;???;src/Imagenes/limite.png
+1;Toyota;Corolla;ABC-1234;Rojo;4;5;3;180;Gasolina;57250;true;30.0;Auto;src/Imagenes/toyota-corolla-rojo-200x200.png
+2;Toyota;Camry;DEF-5678;Azul;4;5;4;220;Diesel;45200;false;30.0;Auto;src/Imagenes/toyota-camry-azul-200x200.png
+3;Toyota;Prius;GHI-9101;Negro;4;5;2;170;Híbrido;40000;false;30.0;Auto;src/Imagenes/toyota-prius-negro-200x200.png
+4;Toyota;RAV4;JKL-1121;Plata;4;5;4;200;Gasolina;30845;true;30.0;Camioneta;src/Imagenes/toyota-rav4-plata-200x200.png
+5;Toyota;Yaris;MNO-3141;Blanco;4;5;2;160;Gasolina;60000;true;30.0;Auto;src/Imagenes/toyota-yaris-blanco-200x200.png
+6;Nissan;Altima;PQE-5647;Rojo;4;5;4;190;Gasolina;35000;false;30.0;Auto;src/Imagenes/.jpg
+7;Nissan;Sentra;RTU-8932;Azul;4;5;3;180;Diesel;25000;false;30.0;Auto;src/Imagenes/.jpg
+8;Nissan;Maxima;UVW-1234;Gris;4;5;4;210;Gasolina;20000;false;30.0;Auto;src/Imagenes/.jpg
+9;Nissan;Murano;XYZ-5678;Negro;4;5;5;195;Gasolina;30000;false;30.0;Auto;src/Imagenes/.jpg
+10;Nissan;Versa;ABC-9101;Blanco;4;5;2;170;Gasolina;40000;false;30.0;Auto;src/Imagenes/.jpg
